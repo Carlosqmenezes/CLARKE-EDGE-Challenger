@@ -18,7 +18,7 @@ Para instalar e executar este projeto, você precisará das seguintes ferramenta
 
 ### Arduino
 
-1. Faça o download do código da pasta "Codigo Fonte" presente neste repositório.
+1. Faça o download do código presente neste repositório.
 2. Abra o código no Arduino IDE e carregue-o para o seu Esp32.
 3. Conecte o Wifi ao servidor da Tago conforme o link do video presente neste repositório.
 
