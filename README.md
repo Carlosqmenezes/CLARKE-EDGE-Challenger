@@ -7,7 +7,7 @@ Este projeto visa simular a coleta de dados de usinas de energia com o objetivo 
 
 - Microcontrolador Esp32
 - Sensor DHT11
-- Potenciometro
+- Fotoressistor
 
 ## Instalação
 
